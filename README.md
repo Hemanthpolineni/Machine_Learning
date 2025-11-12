@@ -54,8 +54,8 @@ The model learns a mapping function from input to output by minimizing the predi
 It draws a straight line that best fits the data points by minimizing the sum of squared errors (Least Squares Method).
 
 **Example Use Case:**  
-Predicting house prices based on square footage.
-
+Predicting Salaries Based on Experience .
+Simple Linear Regression (SLR) | [View Project](https://github.com/Hemanthpolineni/Machine_Learning/tree/main/SLR)
 ---
 
 ### 2️⃣ **Multiple Linear Regression**
